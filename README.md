@@ -1,5 +1,7 @@
+
 #Configuration
 Developed using Ruby 2.7.2
+
 #Example
 ```
 # Load "policy_ocr.rb" file
